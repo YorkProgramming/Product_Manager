@@ -1,0 +1,1 @@
+MERN application to practice CRUD, user can create an item, give it a price and a description. You can also update any product that's yours.
